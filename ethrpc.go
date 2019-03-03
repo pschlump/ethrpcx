@@ -1,4 +1,4 @@
-package ethrpc
+package ethrpcx
 
 import (
 	"bytes"
